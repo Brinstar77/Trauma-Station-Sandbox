@@ -61,16 +61,6 @@
     Plastic: 250
     Cloth: 500
 
-- type: latheRecipe # Trauma
-  id: ClothingNeckShockCollar
-  result: ClothingNeckShockCollar
-  categories:
-  - Clothing
-  completetime: 4
-  materials: # Price point somewhere between Electropack and SecHud
-    Steel: 400
-    Plastic: 200
-
 - type: latheRecipe
   id: ClothingEyesHudSecurity
   result: ClothingEyesHudSecurity

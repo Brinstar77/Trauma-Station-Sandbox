@@ -27,24 +27,3 @@
     sprite: _Trauma/Clothing/Neck/bombcollar.rsi
   - type: SelfUnremovableClothing
 
-- type: entity
-  parent: ClothingNeckUnbutcherableBase
-  id: ClothingNeckShockCollar
-  name: shock collar
-  description: An electrified collar that delivers a weak shock on the signal. A label is visible on the back; "for NT-approved usage only".
-  components:
-  - type: Item
-    size: Tiny
-  - type: Sprite
-    sprite: _Trauma/Clothing/Neck/bombcollar.rsi
-  - type: Clothing
-    sprite: _Trauma/Clothing/Neck/bombcollar.rsi
-  - type: SelfUnremovableClothing
-  - type: ShockOnTrigger # Shock is far less damaging than Electropack.
-    targetContainer: true
-    damage: 1
-    duration: 2
-  - type: TriggerOnSignal
-  - type: DeviceLinkSink
-    ports:
-      - Trigger

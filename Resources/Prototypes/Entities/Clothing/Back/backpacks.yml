@@ -375,7 +375,7 @@
   id: ClothingBackpackElectropack
   name: electropack
   suffix: SelfUnremovable
-  description: Delivers a powerful shock on the signal. A bulkier, more severe alternative to the shock collar, for particularly dangerous criminals. # Trauma
+  description: Delivers a powerful shock on the signal. Intended for use on particularly dangerous or rowdy criminals. # Trauma
   components:
   - type: Sprite
     sprite: Clothing/Back/Backpacks/electropack.rsi
