@@ -3645,3 +3645,10 @@ Entries:
   id: 431
   time: '2026-03-06T00:57:29.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1039
+- author: NoElkaTheGod
+  changes:
+  - type: Tweak
+    message: Station AI can no longer see things through unpowered cameras and holopads
+  id: 432
+  time: '2026-03-06T08:53:11.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1045
