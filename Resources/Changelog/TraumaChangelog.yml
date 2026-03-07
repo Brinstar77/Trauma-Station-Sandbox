@@ -3776,3 +3776,10 @@ Entries:
   id: 446
   time: '2026-03-07T13:49:49.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1092
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Added an accessibility option to turn off skill popups.
+  id: 447
+  time: '2026-03-07T14:17:15.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1094
