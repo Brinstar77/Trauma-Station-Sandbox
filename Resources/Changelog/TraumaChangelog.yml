@@ -3844,3 +3844,10 @@ Entries:
   id: 452
   time: '2026-03-07T19:56:26.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1098
+- author: TurboTrackerss14
+  changes:
+  - type: Tweak
+    message: 'Uplink price of librarian caneblade reduced from 40 to 20 TC. '
+  id: 453
+  time: '2026-03-08T08:58:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1104
