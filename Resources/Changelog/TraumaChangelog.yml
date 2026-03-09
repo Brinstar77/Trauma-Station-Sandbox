@@ -4015,3 +4015,12 @@ Entries:
   id: 472
   time: '2026-03-09T12:42:31.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1155
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Loadouts menu is no longer bloated by other peoples exclusive items, now
+      you just see your own ones.
+  id: 473
+  time: '2026-03-09T13:02:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1157
