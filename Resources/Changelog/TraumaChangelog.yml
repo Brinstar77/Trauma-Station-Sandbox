@@ -4038,3 +4038,10 @@ Entries:
   id: 475
   time: '2026-03-09T14:02:13.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1161
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Removed language learning by hearing someone say it, it was very buggy.
+  id: 476
+  time: '2026-03-09T15:38:19.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1162
