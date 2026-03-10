@@ -4079,3 +4079,10 @@ Entries:
   id: 480
   time: '2026-03-10T07:47:00.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1175
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Nukies now all have good skills by default.
+  id: 481
+  time: '2026-03-10T08:12:47.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1174
