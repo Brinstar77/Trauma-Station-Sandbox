@@ -4109,3 +4109,12 @@ Entries:
   id: 484
   time: '2026-03-10T08:32:06.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/974
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed a bunch of martial arts doing nothing.
+  - type: Fix
+    message: Fixed capoeira helping your opponent..?!
+  id: 485
+  time: '2026-03-10T08:50:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1179
