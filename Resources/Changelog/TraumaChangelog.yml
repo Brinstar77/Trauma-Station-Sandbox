@@ -4086,3 +4086,10 @@ Entries:
   id: 481
   time: '2026-03-10T08:12:47.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1174
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: Fixed cosmic cultists taking holy damage when they shouldn't
+  id: 482
+  time: '2026-03-10T08:19:04.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1176
