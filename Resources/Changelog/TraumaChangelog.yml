@@ -4072,3 +4072,10 @@ Entries:
   id: 479
   time: '2026-03-09T23:43:35.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1168
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed captain not having Library access.
+  id: 480
+  time: '2026-03-10T07:47:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1175
