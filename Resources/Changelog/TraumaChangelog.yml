@@ -4181,3 +4181,12 @@ Entries:
   id: 492
   time: '2026-03-11T08:07:16.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1191
+- author: NoElkaTheGod
+  changes:
+  - type: Tweak
+    message: Cosmic cultists now have good melee skill by default.
+  - type: Fix
+    message: Minor fixes to cosmic cult
+  id: 493
+  time: '2026-03-11T10:13:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1192
