@@ -4335,3 +4335,14 @@ Entries:
   id: 509
   time: '2026-03-13T22:12:04.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1262
+- author: JohnJJohn
+  changes:
+  - type: Add
+    message: Added new end round credit pictures for antags
+  - type: Fix
+    message: Fixed the UI scale messing up the end round credits
+  - type: Fix
+    message: Fixed team antag, solo antag ect showing up in the round end credits
+  id: 510
+  time: '2026-03-13T22:40:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1264
