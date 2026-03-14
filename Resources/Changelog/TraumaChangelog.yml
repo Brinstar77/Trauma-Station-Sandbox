@@ -4475,3 +4475,10 @@ Entries:
   id: 525
   time: '2026-03-14T18:37:23.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1300
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Rounds should start a tiny bit faster.
+  id: 526
+  time: '2026-03-14T18:53:25.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1299
